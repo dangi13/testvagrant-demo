@@ -1,6 +1,8 @@
+[![Test-Vagrant.jpg](https://i.postimg.cc/435bBWV6/Test-Vagrant.jpg)](https://postimg.cc/KK1MYr9j)   [![testvagrant-square-Logo.png](https://i.postimg.cc/rFxh5CnJ/testvagrant-square-Logo.png)](https://postimg.cc/KRcr2Lyk)
+
 :seedling: This is just a basic framework under development for automating REST APIs .  `Maven` `Java` `TestNG` `RestAssured` `ExtentReports`.    
 
-Designed specifically for `TestVagrant` project.    :mage_man::ok_person::heavy_plus_sign::heavy_plus_sign:   
+Designed specifically for `TestVagrant` project.
 
 **Pre-requisites**: `Maven` and `Java` should be installed in the machine if you are running tests locally.
 
