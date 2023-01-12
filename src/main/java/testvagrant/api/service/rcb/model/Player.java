@@ -1,5 +1,7 @@
 package testvagrant.api.service.rcb.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Player {
 	
 	private String name;
@@ -8,6 +10,7 @@ public class Player {
 
 	private String role;
 
+	@JsonProperty("price-in-crores")
 	private String priceInCrores;
 
 	public void setName(String name) {
