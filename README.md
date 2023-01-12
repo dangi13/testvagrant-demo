@@ -26,6 +26,12 @@ On this repository
 4. Click on green `Run workflow` button   
 
 Refresh the browser and you can see that run has been started. Check logs of the tests by going inside this running workflow.   
-You can also download the `test-result` folder present inside `Artifacts` block in last github workflow run summary and see the extent HTML report.
+You can also download the `test-result` folder present inside `Artifacts` block in last github workflow run summary and see the extent HTML report.   
+
+It looks like this:
+
+[![wrappedsuite.png](https://i.postimg.cc/SQcfJQt2/wrappedsuite.png)](https://postimg.cc/kDXbHCCq)   
+[![openedsuite.png](https://i.postimg.cc/0yYTnqQb/openedsuite.png)](https://postimg.cc/ZWqsY26S)   
+
 
 Cheers :shipit: :tada:   
